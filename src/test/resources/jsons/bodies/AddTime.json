@@ -1,0 +1,27 @@
+{
+  "billable": true,
+  "customAttributes": [
+    {
+      "name": "race",
+      "namespace": "user_info",
+      "value": "Asian"
+    }
+  ],
+  "customFields": [
+    {
+      "customFieldId": "5e4117fe8c625f38930d57b7",
+      "sourceType": "WORKSPACE",
+      "value": "new value"
+    }
+  ],
+  "description": "This is a sample time entry description.",
+  "end": "2021-01-01T00:00:00Z",
+  "projectId": "25b687e29ae1f428e7ebe123",
+  "start": "2020-01-01T00:00:00Z",
+  "tagIds": [
+    "321r77ddd3fcab07cfbb567y",
+    "44x777ddd3fcab07cfbb88f"
+  ],
+  "taskId": "54m377ddd3fcab07cfbb432w",
+  "type": "REGULAR"
+}
